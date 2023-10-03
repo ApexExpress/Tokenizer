@@ -6,9 +6,9 @@ Adding to the machine is own unique authentication.
 
 ## About
 
-1.) Tokenizer aims to encode new tokens and create value from such endevours.
-2.) Tokenizer also works towards creating a safe value generatated from the first rule above.
-3.) The Third Rule Clean Code Keep it simple.
++ Tokenizer aims to encode new tokens and create value from such endevours.
++ Tokenizer also works towards creating a safe value generatated from the first rule above.
++ The Third Rule Clean Code Keep it simple.
 
 ## Tokenizer Project
 Aims to shift the understanding about encrpytion being used inside scripting to concerve programs
