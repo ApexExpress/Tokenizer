@@ -1,3 +1,6 @@
+
+Additionally, broken software is an issue: here are some improvements for your code base.
+
 Specify Output File Name: Allow the user to specify the name of the encrypted output 
 file instead of always appending ".gpg" to the input file name.
 
