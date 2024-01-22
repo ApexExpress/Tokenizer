@@ -6,7 +6,8 @@ The Tokenizer Project aims to develop infrastructure software used for authentic
 ## Project Structure:
 The project seems to have a hierarchical structure with different components:
 
-## Personalized: This section seems to be related to personalization features.
+## Personalized: 
+This section seems to be related to personalization features.
 
 ### Node: 
 It's not entirely clear what "node" refers to, but it could be a component or module for personalization.
